@@ -1,6 +1,0 @@
-tup = (1,2,3,4)
-# print(tup[::-1])
-l1=list(tup)
-l1.reverse()
-t=tuple(l1)
-print(t)
